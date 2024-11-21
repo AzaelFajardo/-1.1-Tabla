@@ -1,0 +1,10 @@
+C:\Users\azfaj\Downloads\MotherFucker c#\(1.1) Tabla\obj\Debug\(1.1) Tabla.csproj.AssemblyReference.cache
+C:\Users\azfaj\Downloads\MotherFucker c#\(1.1) Tabla\obj\Debug\_1._1__Tabla.Form1.resources
+C:\Users\azfaj\Downloads\MotherFucker c#\(1.1) Tabla\obj\Debug\_1._1__Tabla.Properties.Resources.resources
+C:\Users\azfaj\Downloads\MotherFucker c#\(1.1) Tabla\obj\Debug\(1.1) Tabla.csproj.GenerateResource.cache
+C:\Users\azfaj\Downloads\MotherFucker c#\(1.1) Tabla\obj\Debug\(1.1) Tabla.csproj.CoreCompileInputs.cache
+C:\Users\azfaj\Downloads\MotherFucker c#\(1.1) Tabla\bin\Debug\(1.1) Tabla.exe.config
+C:\Users\azfaj\Downloads\MotherFucker c#\(1.1) Tabla\bin\Debug\(1.1) Tabla.exe
+C:\Users\azfaj\Downloads\MotherFucker c#\(1.1) Tabla\bin\Debug\(1.1) Tabla.pdb
+C:\Users\azfaj\Downloads\MotherFucker c#\(1.1) Tabla\obj\Debug\(1.1) Tabla.exe
+C:\Users\azfaj\Downloads\MotherFucker c#\(1.1) Tabla\obj\Debug\(1.1) Tabla.pdb
